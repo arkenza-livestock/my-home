@@ -1,0 +1,19 @@
+appConfig:
+  title: "My Home"
+  theme: colorful
+
+sections:
+  - name: "🌐 Web Çalışmalarım"
+    items:
+      - title: "Coolify"
+        url: "https://coolify.senin-domain.com"
+
+  - name: "📱 Sosyal Medya"
+    items:
+      - title: "Instagram"
+        url: "https://instagram.com/"
+
+  - name: "⚙️ Araçlar"
+    items:
+      - title: "GitHub"
+        url: "https://github.com/"
